@@ -1,8 +1,8 @@
 # cgviz
 
-[![PyPI version](https://img.shields.io/pypi/v/cgviz.svg)](https://pypi.org/project/cgviz/)
-[![Python versions](https://img.shields.io/pypi/pyversions/cgviz.svg)](https://pypi.org/project/cgviz/)
-[![License: MIT](https://img.shields.io/pypi/l/cgviz.svg)](LICENSE)
+[![PyPI version](https://img.shields.io/pypi/v/cgviz)](https://pypi.org/project/cgviz/)
+[![Python versions](https://img.shields.io/pypi/pyversions/cgviz)](https://pypi.org/project/cgviz/)
+[![License: MIT](https://img.shields.io/pypi/l/cgviz)](LICENSE)
 
 **Explore your codebase as an interactive graph — one command, zero config.**
 
