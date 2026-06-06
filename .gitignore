@@ -29,3 +29,6 @@ frontend/dist/
 
 # Local agent / editor tooling (machine-specific paths, not for distribution)
 .claude/
+
+# Credentials — never commit (contains PyPI API token)
+.pypirc

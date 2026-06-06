@@ -46,8 +46,9 @@ dev = [
 cgviz = "cgviz.cli:main"
 
 [project.urls]
-Homepage = "https://github.com/codegraph-viz/codegraph-viz"
-Repository = "https://github.com/codegraph-viz/codegraph-viz"
+Homepage = "https://github.com/qlinhta/cgviz"
+Repository = "https://github.com/qlinhta/cgviz"
+Issues = "https://github.com/qlinhta/cgviz/issues"
 
 # The built frontend lives in src/cgviz/static/ but is .gitignored
 # (it's a build artifact), so force-include it in both sdist and wheel.
