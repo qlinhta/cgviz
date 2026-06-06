@@ -12,16 +12,16 @@
 
 ---
 
-## Highlights
+## Features
 
-- ⚡ **WebGL rendering** (Sigma.js + Graphology) — handles thousands of nodes smoothly
-- 🧭 **Focus mode** — click any symbol to gather its caller/callee cluster, centered and labeled
-- 🌐 **2D & immersive 3D** views (Three.js), toggleable
-- 🎛️ **Layouts** — force-directed, radial, hierarchical, tree
-- 🔎 **Full-text search** and **filters** by node kind, edge kind, and file path
-- 🧩 **View modes** — All edges · Call graph · Inheritance · Structure
-- 🔁 **Live updates** — re-renders when your `.codegraph` database changes
-- 🎨 **Dark / light themes**, refined color palette
+- **WebGL rendering** (Sigma.js + Graphology) — handles thousands of nodes smoothly
+- **Focus mode** — click any symbol to gather its caller/callee cluster, centered and labeled
+- **2D and immersive 3D** views (Three.js), toggleable
+- **Multiple layouts** — force-directed, radial, hierarchical, and tree
+- **Full-text search** and **filters** by node kind, edge kind, and file path
+- **View modes** — all edges, call graph, inheritance, and structure
+- **Live updates** — re-renders when the `.codegraph` database changes
+- **Dark and light themes** with a refined color palette
 
 ## Requirements
 
